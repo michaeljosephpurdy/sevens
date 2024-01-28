@@ -35,9 +35,12 @@ When the final card from the _draw pile_ is drawn and the current player finishe
 Bundles are created by adding and subtracting cards.  Examples:
 
 > John plays valid bundle of 9 and 2.
+>
 > `9 - 2 = 7`
 >
+>
 > Sarah plays a King (13), a 5, a 3, and a 2
+>
 > `13 - 5 - 3 + 2 = 7`
 
 ### 2. Discarding Cards
